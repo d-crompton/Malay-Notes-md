@@ -1,0 +1,5 @@
+# Counting
+
+|          |       |
+| -------- | ----- |
+| Beberapa | A few |
