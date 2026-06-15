@@ -8,9 +8,11 @@
 
 ## Vehicles
 
-|       |      |
-| ----- | ---- |
-| Teksi | Taxi |
+|        |      |
+| ------ | ---- |
+| Bas    | Bus  |
+| Kereta | Car  |
+| Teksi  | Taxi |
 
 ## Driving
 
@@ -23,5 +25,6 @@
 
 |                                    |                      |
 | ---------------------------------- | -------------------- |
-| Penerbangan                        | Flight               |
+| Lapangan terbang                   | Airport, airfield    |
+| Penerbangan                        | Flight (noun)        |
 | Bagaimana dengan penerbangan anda? | How was your flight? |

@@ -17,8 +17,11 @@
 | Bertutur dalam | To speak in (a language)    |
 | Biar           | To let or allow             |
 | Dapat          | To get to, to be able to    |
+| Harap          | To hope                     |
 | Hendak         | To want, to need            |
 | Kembali        | To come back                |
+| Lupa           | To forget                   |
+| Mandi          | To bathe                    |
 | Membaca        | To read                     |
 | Mengajar       | To teach                    |
 | Menghantar     | To take someone somewhere   |
@@ -26,8 +29,11 @@
 | Menulis        | To write                    |
 | Menunggu       | To wait                     |
 | Naik           | To take a form of transport |
+| Seronok        | To enjoy                    |
+| Terbang        | To fly                      |
 | Terlewat       | To be late                  |
 | Tersangkut     | To be stuck                 |
+| Tiba           | To arrive                   |
 
 ## Bercakap, Bertutur and Berbual
 

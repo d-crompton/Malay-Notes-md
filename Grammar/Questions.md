@@ -22,3 +22,7 @@ In informal Malay **_Adakah_** and **_Apakah_** may be omitted completely. Inste
 |                                    |                      |
 | ---------------------------------- | -------------------- |
 | Bagaimana dengan penerbangan anda? | How was your flight? |
+
+# Bolehkah
+
+**_Bolehkah_** can be translated as _could you..._. The **_-kah_** suffix is optional and used colloquially. Malay people tend to use the **_-kah_** when asking questions in a written form.
