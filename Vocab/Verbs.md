@@ -34,6 +34,7 @@
 | Terlewat       | To be late                  |
 | Tersangkut     | To be stuck                 |
 | Tiba           | To arrive                   |
+| Tinggal        | To live, to stay            |
 
 ## Bercakap, Bertutur and Berbual
 

@@ -23,6 +23,22 @@ In informal Malay **_Adakah_** and **_Apakah_** may be omitted completely. Inste
 | ---------------------------------- | -------------------- |
 | Bagaimana dengan penerbangan anda? | How was your flight? |
 
-# Bolehkah
+## Berapa Lama, Berapa Panjang
+
+**_Berapa_** on its own means _"how many?"_. When combined with other words, **_berapa_** is used to create more specific questions.
+
+- **_Berapa lama?_** is _"how long?"_ is reference to **time** only.
+- **_Berapa panjang?_** is _"how long?"_ is reference to **physical distance** only.
+
+## Bolehkah
 
 **_Bolehkah_** can be translated as _could you..._. The **_-kah_** suffix is optional and used colloquially. Malay people tend to use the **_-kah_** when asking questions in a written form.
+
+## Siapa Nama, Apa Nama?
+
+When asking someone's name you use **_"Siapa nama...?"_** but when asking the name of something non-living, you use **_Apa nama...?_**
+
+|                       |                                   |
+| --------------------- | --------------------------------- |
+| Siapa nama orang itu? | What is the name of that person?  |
+| Apa nama kampung ini? | What is the name of this village? |

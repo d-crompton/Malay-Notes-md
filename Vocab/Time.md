@@ -2,6 +2,7 @@
 
 |                          |                     |
 | ------------------------ | ------------------- |
+| Berapa lama?             | How long?           |
 | Dahulu                   | Before, in the past |
 | Masa                     | Time, Occasion      |
 | Sehingga                 | Until               |
